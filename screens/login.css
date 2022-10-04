@@ -1,0 +1,16 @@
+#start-form{
+	display: flex;
+	flex-direction: column;
+	margin: 0px 30px;
+	padding-top: 30px;
+}
+
+#start-form input{
+	border: 2px solid wheat;
+	border-radius: 20px;
+	padding: 15px 0px;
+	cursor: pointer;
+	font-size: 19px;
+	margin-bottom: 23px;
+	background-color: #6cd987;
+}

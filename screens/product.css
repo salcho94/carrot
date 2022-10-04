@@ -1,0 +1,55 @@
+.product-list{
+	display: flex;
+	align-items: center;
+	padding-bottom: 20px;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	margin: 5px 0px 20px 0px;
+}
+
+.product__photo{
+	width: 120px;
+	height: 120px;
+	border-radius: 15px;
+}
+
+.product-list__info{
+    display: flex;
+    flex-direction: column;
+	position: relative;
+	margin: 0px 0px 45px 15px;
+	width: 160px;
+}
+
+.product-list__title{
+	font-weight: 500;
+}
+
+.product-list__local{
+	font-size: 11px;
+	opacity: 0.5;
+	margin:5px 0px 15px 1px;
+}
+
+.product-list__price{
+	font-weight: 600;
+	color: #ff8a3d;
+	opacity: 0.9;
+}
+
+.product-list-sub__info{
+	position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.product-watch{
+	font-size: 14px;
+}
+
+.red{
+	color: red;
+}
+
+
+
+
